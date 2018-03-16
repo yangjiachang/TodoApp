@@ -1,0 +1,5 @@
+npm init
+npm install express --save-dev
+npm install ejs body-parser --save-dev
+
+创建主文件入口 app.js
